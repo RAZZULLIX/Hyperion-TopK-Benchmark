@@ -3,7 +3,7 @@
 ### Status: Independent Research Breakthrough
 **Primary Metric:** 19.6x Speedup vs. PyTorch (Batch 1, 256k Vocab)  
 **Target Architecture:** Modern CPU (x86_64 / ARM)
-
+![Hyperion vs PyTorch Latency](performance_gap.png)
 ---
 
 ## The Problem
